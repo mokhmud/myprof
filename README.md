@@ -20,10 +20,17 @@ Passionate about coding and building solutions. I bring creativity and logic tog
 
 ## 🌍 Languages
 
-**English — B2 (Upper-Intermediate)**  
+| Language | Level |
+|----------|-------|
+| 🇺🇿 Uzbek | Native |
+| 🇷🇺 Russian | Fluent (C1-C2) |
+| 🇬🇧 English | B2 (Upper-Intermediate) |
+| 🇰🇷 Korean | Reading only (한글 읽기 가능) |
 
-`IELTS 5.0 (2022)` → `Current: B2`  
+**English:** `IELTS 5.0 (2022)` → `Current: B2`  
 *Vocabulary expanded • Listening improved • Grammar automated • Speaking actively practiced*
+
+**Korean:** Can read Hangeul, understand basic texts
 
 ---
 
@@ -54,7 +61,3 @@ Passionate about coding and building solutions. I bring creativity and logic tog
 ### 🔷 [Group-work](https://github.com/mokhmud/Group-work)
 > *Public · C#*  
 > *Educational project | Group lab work | Team collaboration, code collaboration & task distribution*
-
----
-
-📍 **Saint Petersburg, Russia**
