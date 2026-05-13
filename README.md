@@ -32,8 +32,9 @@ Passionate about coding and building solutions. I bring creativity and logic tog
 | Institution | Status |
 |-------------|--------|
 | **GUAP** (Saint Petersburg State University of Aerospace Instrumentation) | 🎓 Currently studying |
-| **Higher School of Programming** (Krasnodar) | ✅ Graduated with honors |
-| **ANO "School of Programmers"** (Moscow) | ✅ Certificate: Industrial Programming |
+| **Higher School** (region: Urganch) | ✅ Graduated with honors |
+| **IELTS Imperia** | ✅ Certificate — region: Urganch |
+| **IELTS Base** | 5.0 (2022) |
 
 ---
 
