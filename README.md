@@ -56,17 +56,4 @@ Passionate about coding and building solutions. I bring creativity and logic tog
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokhmud&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhmud&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mokhmud&color=ff69b4&style=flat-square" />
-</div>
-
----
-
 📍 **Saint Petersburg, Russia**
