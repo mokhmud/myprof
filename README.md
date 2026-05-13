@@ -1,4 +1,4 @@
-# ✨ Sodikov Mokhmudjon
+# ⚡ Sodikov Mokhmudjon
 
 > *3rd-year IT student | Creative developer | Problem solver*
 
